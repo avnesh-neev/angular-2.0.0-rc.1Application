@@ -1,4 +1,4 @@
-# ETL Tool Application
+# Angular 2 learning Application
 
 - Angular 2.0.0-rc.1
 - Gulp
